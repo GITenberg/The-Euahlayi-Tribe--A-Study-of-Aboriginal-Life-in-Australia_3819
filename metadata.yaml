@@ -1,0 +1,41 @@
+_repo: The-Euahlayi-Tribe--A-Study-of-Aboriginal-Life-in-Australia_3819
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Lang, Andrew
+    alias: Lang, Walter Andrew
+    birthdate: 1844
+    deathdate: 1912
+    gutenberg_agent_id: '79'
+    url: http://www.gutenberg.org/2009/agents/79
+    wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+creator:
+  author:
+    agent_name: Parker, K. Langloh (Katie Langloh)
+    aliases:
+    - Field, Catherine Eliza Somerville
+    - Parker, Kate
+    - Parker, Catherine Somerville Field
+    - Field, Katie
+    - Stow, Catherine Somerville Field
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '1318'
+    url: http://www.gutenberg.org/2009/agents/1318
+    wikipedia: http://en.wikipedia.org/wiki/K_Langloh_Parker
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2003-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Euahlayi (Australian people)'
+- !lcc 'GN'
+- GITenberg
+title: 'The Euahlayi Tribe: A Study of Aboriginal Life in Australia'
+url: http://www.gutenberg.org/ebooks/3819
