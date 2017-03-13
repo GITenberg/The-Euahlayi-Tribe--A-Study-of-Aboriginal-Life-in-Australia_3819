@@ -1,5 +1,5 @@
 _repo: The-Euahlayi-Tribe--A-Study-of-Aboriginal-Life-in-Australia_3819
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Lang, Andrew
@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '79'
     url: http://www.gutenberg.org/2009/agents/79
     wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Parker, K. Langloh (Katie Langloh)
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1318
     wikipedia: http://en.wikipedia.org/wiki/K_Langloh_Parker
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/3819#The-Euahlayi-Tribe--A-Study-of-Aboriginal-Life-in-Australia
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2003-03-01'
 gutenberg_type: Text
